@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: Home of Virtzilla
-description: A blank space
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+color-scheme: dark
+
+title: Virtzilla's Lair
+description: ''
